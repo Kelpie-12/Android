@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFE700</color>
+    <color name="green">#00FF0A</color>
+    <color name="box_one">#001EFF</color>
+    <color name="box_two">#494949</color>
+    <color name="box_three">#20623B</color>
+    <color name="box_four">#4B83CC</color>
+    <color name="box_five">#1B0202</color>
+    <color name="box_six">#673AB7</color>
+    <color name="box_seven">#A153B3</color>
+</resources>

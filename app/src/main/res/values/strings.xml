@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="welcome">Hello world!</string>
+    <string name="hello">Hello</string>
+    <string name="android">Android</string>
+    <string name="box_one">Box one</string>
+    <string name="box_two">Box two</string>
+    <string name="box_three">Box three</string>
+    <string name="box_four">Box four</string>
+    <string name="box_seven">Box seven</string>
+    <string name="box_six">Box six</string>
+</resources>
