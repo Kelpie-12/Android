@@ -9,4 +9,9 @@
     <string name="box_four">Box four</string>
     <string name="box_seven">Box seven</string>
     <string name="box_six">Box six</string>
+    <string name="first_button">Box six</string>
+    <string name="calculator">Calculator</string>
+    <string name="first_namber">First namber</string>
+    <string name="second_number">Second Number</string>
+    <string name="calc">Посчитать</string>
 </resources>
